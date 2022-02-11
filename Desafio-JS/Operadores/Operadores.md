@@ -1,4 +1,4 @@
-##Operadores##
+##Operadores
 
 - Crie uma função que recebe dois números como parâmetros.
 - Confira se os números são iguais.
